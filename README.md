@@ -1,1 +1,1 @@
-Dalam project static web page ini saya menggunakan HTML,CSS,Javascript dan jQuery sebagai micro interaction.
+In this project's static web page I use HTML, CSS, Javascript and jQuery as micro interactions.
